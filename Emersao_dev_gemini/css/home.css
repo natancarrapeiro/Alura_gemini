@@ -1,0 +1,10 @@
+#principal{
+    background-image:url("../imagens/thumb-1920-660492.jpg") ;
+    background-size: cover;
+   
+}
+#corpo_pagina{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
